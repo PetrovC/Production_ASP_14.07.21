@@ -1,0 +1,40 @@
+Production :
+
+Creation et consomation de la database
+Avec Projet ASP
+[lundi 17:23] Khun LyProduction du 14/07
+    
+
+Consignes:
+Créer une application Console, ASP, WPF, ... (selon votre envie) qui utilisera une base de données SqlServer.
+
+Objectifs:
+L'application devra permettre d'effectuer les opérations de bases (CRUD) sur une ou plusieurs table(s) de votre base de données.
+Les classes de connections devront être définies dans une bibliothèque de Classes séparée de l'application (DAL).
+
+Etapes:
+
+
+	
+Créer votre base de données (1 ou plusieurs table(s))
+	
+Créer votre bibliothèque de Classes (DAL)
+	
+
+		
+Créer vos entité(s) à la main ou en utilisant le générateur d'entités
+		
+Créer vos service(s) avec les méthodes de base (pour pouvoir réaliser un CRUD complet).
+	
+	
+	
+Créer une application (Console, ASP, WPF, ...) et lier votre DAL à votre application.
+	
+
+		
+Définissez le code de votre application pour gérer les différentes actions de l'utilisateur.
+	
+	
+
+
+

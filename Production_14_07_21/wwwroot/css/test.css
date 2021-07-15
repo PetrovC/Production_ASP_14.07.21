@@ -1,0 +1,14 @@
+﻿.myflex {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    max-height: 100vh
+}
+
+.myimg {
+    max-height: 60vh;
+    max-width: auto;
+}

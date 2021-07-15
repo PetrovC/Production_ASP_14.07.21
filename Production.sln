@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Production_14_07_21", "Production_14_07_21\Production_14_07_21.csproj", "{16D94636-5D43-48A1-9DDE-CDC3B6D87DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Technobel_Student.DAL", "Technobel_Student.DAL\Technobel_Student.DAL.csproj", "{B36730B4-A1EF-4787-9DA4-F413C4D003AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D94636-5D43-48A1-9DDE-CDC3B6D87DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D94636-5D43-48A1-9DDE-CDC3B6D87DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D94636-5D43-48A1-9DDE-CDC3B6D87DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D94636-5D43-48A1-9DDE-CDC3B6D87DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36730B4-A1EF-4787-9DA4-F413C4D003AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36730B4-A1EF-4787-9DA4-F413C4D003AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36730B4-A1EF-4787-9DA4-F413C4D003AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36730B4-A1EF-4787-9DA4-F413C4D003AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB3BA4D-70B8-41EA-94C9-943D9FEAAFAC}
+	EndGlobalSection
+EndGlobal
